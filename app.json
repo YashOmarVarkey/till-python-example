@@ -12,7 +12,7 @@
   "image": "heroku/python",
   "addons": [
     {
-      "plan": "till:free"
+      "plan": "till:alpha"
     },
     {
       "plan": "pusher"
